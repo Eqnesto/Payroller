@@ -1,2 +1,0 @@
-# Payroller
-Payroll system.
